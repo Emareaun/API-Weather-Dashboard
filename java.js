@@ -31,7 +31,9 @@ function init(){
 
 function storeCities(){
   localStorage.setItem("cities", JSON.stringify(cities));
-  console.log(localStorage);
+  //console.log(localStorage);
+  //console.log(formattedDate);
+  //console.log(today);
 }
 
 function renderCities() {
