@@ -6,4 +6,4 @@ A simple weather app that displays the current weather conditions for a given ci
 Displays the current weather in chosen area.
 Shows a forecast for the next 7 days.
 
-https://github.com/Emareaun/API-Weather-Dashboard/assets/127164101/6d5a17ec-4aa8-4fde-a4c5-c261ed677ad3
+![Screen Shot 2023-06-26 at 8 33 14 PM](https://github.com/Emareaun/API-Weather-Dashboard/assets/127164101/c495e3ea-3d53-4a84-bd8a-a8a028e54183)
